@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:SPERIAMO BENE
+Gruppo:SPERIAMO BENE ma anche meglio
 
 Componenti (nome, cognome e username GitHub di entrambi):
 
